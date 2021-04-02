@@ -1,0 +1,19 @@
+{
+  "name": "idmeforever.github.io",
+  "version": "0.0.1",
+  "description": "A Coder&#39;s Blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Zhang",
+    "email": "idmeforever@gmail.com"
+  },
+  "repository": "https://github.com/IDmeforever/idmeforever.github.io/idmeforever.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
